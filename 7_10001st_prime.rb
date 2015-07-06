@@ -1,0 +1,9 @@
+# 7 - 10001st prime
+# By listing the first six prime numbers: 2,3,5,7,11, and 13, we can see that the 6th prime is 13.
+# What is the 10 001st prime number?
+timer_start = Time.now
+def find_the_10001st_prime
+
+end
+find_the_10001st_prime
+puts "Elapsed Time: #{(Time.now - timer_start)*1000} milliseconds"
